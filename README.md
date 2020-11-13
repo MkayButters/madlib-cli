@@ -7,6 +7,6 @@ running clients: Black
 
 # Pull Request-
 
-pull request: https://mkaybutters.github.io/madlib-cli/
+pull request: https://github.com/MkayButters/madlib-cli/pull/1
 
 
